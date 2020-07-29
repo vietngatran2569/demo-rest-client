@@ -1,0 +1,33 @@
+.btn-transparent {
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.btn-transparent:focus {
+    background: transparent;
+    outline: none;
+    border: none;
+}
+
+.btn-transparent:nth-child(1) i {
+    color: #3499ff;
+}
+
+.btn-transparent:nth-child(2) i {
+    color: #ffab20;
+}
+
+.btn-transparent:hover i{
+    opacity: 1;
+}
+
+.btn-transparent i {
+    transition: .3s;
+    opacity: .7;
+}
+
+#listTask .card-body {
+    max-height: 400px;
+    overflow-y: scroll;
+}

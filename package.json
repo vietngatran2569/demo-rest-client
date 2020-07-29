@@ -1,0 +1,17 @@
+{
+  "name": "demo-web-client",
+  "version": "1.0.0",
+  "dependencies": {
+    "@typed/hashmap": "^1.0.1",
+    "@types/bootstrap": "^4.5.0",
+    "@types/jquery": "^3.3.38",
+    "@types/node": "^14.0.13",
+    "@types/typescript": "^2.0.0",
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "parcel": "^1.12.4",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.5"
+  }
+}
